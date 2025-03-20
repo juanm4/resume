@@ -26,6 +26,8 @@ To sum up how I see myself, I would say this:
 
 **I am not always brilliant. But when I am, it is awesome.**
 
+<br/>
+
 <a name="experience"></a>
 # Experience 💼
 
