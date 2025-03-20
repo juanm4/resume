@@ -1,4 +1,4 @@
-<img style="border-radius:50%;width:auto;height:100px" src="./img/pro.png" />
+<img style="width:auto;height:150px" src="./img/pro-circle.png" />
 
 
 Juan Manuel Molina López <br/>
