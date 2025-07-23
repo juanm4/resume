@@ -160,6 +160,11 @@ development tools and techniques.
 - <div>Android Development</div>
 <br />
 
+**Python**
+
+- <div>Django</div>
+<br />
+
 **Database**
 
 - <div>Gremlin Query Language (TinkerPop - Graph DB)</div>
